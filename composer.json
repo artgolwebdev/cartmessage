@@ -1,0 +1,16 @@
+{
+    "name": "artyo/cartmessage",
+    "description": "Cart message plugin",
+    "autoload": {
+        "psr-4": {
+            "Cartmessage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artgolwebdev",
+            "email": "artyombb@gmail.com"
+        }
+    ],
+    "require": {}
+}

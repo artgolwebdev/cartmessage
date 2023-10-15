@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.cart-message-plugin{
+    font-size:28px;
+    text-align: center;
+    background-color: var(--wp--preset--color--primary);
+    font-family: 'Permanent Marker', cursive;
+    padding:10px;
+}
